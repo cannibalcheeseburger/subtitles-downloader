@@ -31,7 +31,6 @@ python ytssubs.py
 
 ```
 python ytssubs.py <movie title>
-
 ```
 
 #### extra
