@@ -8,8 +8,8 @@ Downloads subtitle of movies (so far)  and save them in a folder `/subs`.
 Clone the repository and checkout to stable commit
 
 ```
-git clone https://github.com/cannibalcheeseburger/automation-cli.git
-cd automation-cli
+git clone https://github.com/cannibalcheeseburger/subtitles-downloader.git
+cd subtitles-downloader
 ```
 ### Install Requirements
 

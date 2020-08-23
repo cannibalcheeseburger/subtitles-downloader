@@ -8,7 +8,7 @@ with open('requirements.txt', 'r') as f:
 
 setuptools.setup(
     name="ytssubs",
-    version = '0.0.1',
+    version = '0.0.2',
     description='A Script to download subs from yts',
     long_description=long_description,
     long_description_content_type='text/markdown',
@@ -17,6 +17,6 @@ setuptools.setup(
     install_requires=requirements, #external packages as dependencies
 
     entry_points={
-        'console_scripts': ['ytssubs=ytssubs:main']
+        'console_scripts': ['ytssubs = ytssubs:main']
     }
 )
