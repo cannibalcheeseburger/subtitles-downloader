@@ -19,18 +19,24 @@ pipenv install
 pipenv shell
 ```
 
+### SETUP 
+
+```
+python install -e -U .
+```
+
 ### Running script
 
 1. Run without command line arguments
 
 ```
-python ytssubs.py
+ytssubs
 ```
 
 2. Run with command line arguments
 
 ```
-python ytssubs.py <movie title>
+ytssubs <movie title>
 ```
 
 #### extra
